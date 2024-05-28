@@ -1,7 +1,8 @@
-![I am Web developer](https://avatars.githubusercontent.com/u/98306206?s=400&u=4a91394747b5d93a05f65a1fe56a18d690f843fb&v=4)
 ### Hi there 👋, I am Arafath Al Hossain
 #### I am Web developer
+![I am Web developer]
 
+(https://media.licdn.com/dms/image/D5616AQFgFORyHuC29A/profile-displaybackgroundimage-shrink_350_1400/0/1711690456120?e=1722470400&v=beta&t=4VtcIgRTl5mCHU8SK1_dUQ_7sJPYaQdIdMlHxhdkbNY)
 
 I'm Arafath Al Hossain, I completed my BSC in CSE from Independent University, Bangladesh. I spend my days learning about different aspects of computer science, including full-stack web development and cybersecurity. 
 
