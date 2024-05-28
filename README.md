@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Arafath Al Hossain
 #### I am Web developer
-![I am Web developer]
-
-(https://media.licdn.com/dms/image/D5616AQFgFORyHuC29A/profile-displaybackgroundimage-shrink_350_1400/0/1711690456120?e=1722470400&v=beta&t=4VtcIgRTl5mCHU8SK1_dUQ_7sJPYaQdIdMlHxhdkbNY)
+![I am Web developer](https://media.licdn.com/dms/image/D5616AQFgFORyHuC29A/profile-displaybackgroundimage-shrink_350_1400/0/1711690456120?e=1722470400&v=beta&t=4VtcIgRTl5mCHU8SK1_dUQ_7sJPYaQdIdMlHxhdkbNY)
 
 I'm Arafath Al Hossain, I completed my BSC in CSE from Independent University, Bangladesh. I spend my days learning about different aspects of computer science, including full-stack web development and cybersecurity. 
 
